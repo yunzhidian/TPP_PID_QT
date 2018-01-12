@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="connect_sucess">circle_green.png</file>
+        <file alias="connect_fail">circle_red.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>tpp.qss</file>
+    </qresource>
+</RCC>
